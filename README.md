@@ -30,10 +30,10 @@ DAX (Data Analysis Expressions)
 
 
 
-**Files Included**  
+**Files Included**    
 SALES.pbix → Main Power BI dashboard
 images/ → Dashboard screenshots
-**Key Insights**   
+**Key Insights**     
 Top-performing region:West region
 Highest revenue product category: Technology
 Seasonal trends observed: December
