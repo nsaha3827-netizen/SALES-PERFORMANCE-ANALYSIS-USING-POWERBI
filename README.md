@@ -15,7 +15,8 @@ Customer behavior patterns
 Businesses often struggle to track sales performance efficiently across different regions and products.
 This dashboard solves that by providing a centralized and visual analytics solution.
 
-**Key Features**    
+**Key Features**   
+
 📈 Sales trend analysis (monthly/yearly)
 🌍 Region-wise performance comparison
 🛒 Product category insights
@@ -26,21 +27,21 @@ Power BI
 Data Cleaning (Excel / CSV)
 DAX (Data Analysis Expressions)
 📊 Dashboard Preview
+**Files Included**  
 
-
-
-
-**Files Included**    
 SALES.pbix → Main Power BI dashboard
-images/ → Dashboard screenshots
-**Key Insights**     
+Sales pdf → Dashboard screenshots
+**Key Insights**
+
 Top-performing region:West region
 Highest revenue product category: Technology
 Seasonal trends observed: December
-**Learnings**    
+**Learnings**  
+
 Hands-on experience with Power BI dashboards
 Data modeling and relationships
 Writing DAX measures
 Business storytelling using data
 **Contact**  
+
 If you have any feedback or suggestions, feel free to connect!
