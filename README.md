@@ -1,6 +1,6 @@
 # SALES-PERFORMANCE-ANALYSIS-USING-POWERBI
 
-**Project Overview**
+**Project Overview**  
 
 This project presents an interactive Sales Dashboard built using Power BI to analyze business performance, identify trends, and generate actionable insights.
 
@@ -10,12 +10,12 @@ Revenue trends over time
 Top-performing products
 Regional sales performance
 Customer behavior patterns
-**Problem Statement**
+**Problem Statement**   
 
 Businesses often struggle to track sales performance efficiently across different regions and products.
 This dashboard solves that by providing a centralized and visual analytics solution.
 
-**Key Features**
+**Key Features**    
 📈 Sales trend analysis (monthly/yearly)
 🌍 Region-wise performance comparison
 🛒 Product category insights
@@ -30,17 +30,17 @@ DAX (Data Analysis Expressions)
 
 
 
-**Files Included**
+**Files Included**  
 SALES.pbix → Main Power BI dashboard
 images/ → Dashboard screenshots
-**Key Insights**
+**Key Insights**   
 Top-performing region:West region
 Highest revenue product category: Technology
 Seasonal trends observed: December
-**Learnings**
+**Learnings**    
 Hands-on experience with Power BI dashboards
 Data modeling and relationships
 Writing DAX measures
 Business storytelling using data
-**Contact**
+**Contact**  
 If you have any feedback or suggestions, feel free to connect!
