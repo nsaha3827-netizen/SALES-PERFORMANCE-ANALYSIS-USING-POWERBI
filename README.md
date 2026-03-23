@@ -23,7 +23,7 @@ This dashboard provides a **centralized and visual analytics solution** to monit
 
 ---
 
-## 📌 Key Features
+##  Key Features
 
 * 📊 Sales trend analysis (monthly & yearly)
 * 🌍 Region-wise performance comparison
@@ -41,7 +41,7 @@ This dashboard provides a **centralized and visual analytics solution** to monit
 
 ---
 
-## 📂 Files Included
+## Files Included
 
 * `SALES.pbix` → Main Power BI dashboard file
 * `SALES PDF.pdf` → Dashboard export / report
@@ -49,7 +49,7 @@ This dashboard provides a **centralized and visual analytics solution** to monit
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 * 🏆 Top-performing region: **West Region**
 * 💰 Highest revenue product category: **Technology**
@@ -57,7 +57,7 @@ This dashboard provides a **centralized and visual analytics solution** to monit
 
 ---
 
-## 🧠 Learnings
+## Learnings
 
 * Hands-on experience with Power BI dashboards
 * Data modeling and table relationships
@@ -66,6 +66,6 @@ This dashboard provides a **centralized and visual analytics solution** to monit
 
 ---
 
-## 📬 Contact
+## Contact
 
 If you have any feedback or suggestions, feel free to connect!
